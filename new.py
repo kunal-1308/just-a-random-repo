@@ -6,3 +6,5 @@ print('newer version on local')
 print('changes from origin')
 
 print("Hello , I made a change for teaching git")
+print("Changes to demonstrate")
+print("git diff")
